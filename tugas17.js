@@ -1,22 +1,3 @@
-// var x = "Saya Belajar di sekolah";
-// console.log(x.charCodeAt(3));
-
-// console.log(String.fromCodePoint(97));
-
-// var huruf = "Belajar di Niomic";
-// console.log(huruf.toLowerCase());
-
-// var huruf = "Belajar di Niomic";
-// console.log(huruf.toUpperCase());
-
-// var kata = "Saya ingin makan";
-// console.log(kata.charAt(3));
-
-// var aku = "Aku Pintar Memasak";
-// console.log(aku.substr(4));
-// console.log(aku.substr(3,10));
-// console.log(aku.substr(-3));
-
 const tugas17 = () =>{
     //tugas soal no.1
     var kalimat1 = "Saya beLajar bahaSa peMrograman deNgan khUsuk";
